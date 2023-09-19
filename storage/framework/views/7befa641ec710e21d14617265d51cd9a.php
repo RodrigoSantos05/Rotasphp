@@ -1,0 +1,1 @@
+<h1>HOME</h1><?php /**PATH C:\ITZ\ATIVIDADEPHP\resources\views/Home.blade.php ENDPATH**/ ?>
